@@ -1,6 +1,6 @@
 # Hello 👋
 
-I am a **Web Developer**
+I am a **Full Stack Developer**
 
 - 💼 Working on multiple frontend and backend projects using **JavaScript**, **Python** and **Node.js**
 - 🎯 Hacking on **Python**
