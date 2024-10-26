@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Tholumuzi Khuboni
+# 👋 Hi, I'm Tholumuzi
 
 I'm a **Front-End Developer** and **Cybersecurity Analyst** passionate about building secure, intuitive web applications. My work combines clean design with a strong focus on web security, aiming to enhance user experience without compromising safety.
 
