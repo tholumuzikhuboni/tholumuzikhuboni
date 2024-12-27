@@ -1,19 +1,36 @@
-# 👋 Hi, I'm Tholumuzi
+# Hi there, I'm Tholumuzi Khuboni 👋
 
-I'm a **Front-End Developer** and **Cybersecurity Analyst** passionate about building secure, intuitive web applications. My work combines clean design with a strong focus on web security, aiming to enhance user experience without compromising safety.
+Welcome to my GitHub profile! I'm a passionate front-end developer, cybersecurity analyst, and tech enthusiast. I specialize in creating modern, responsive websites, web apps, and tools, with a focus on user experience and security.
 
-## 🔧 Technologies & Skills
-- **Front-End:** HTML, CSS, JavaScript
-- **Security:** Python, SQL, Linux, Threat detection, client-side security practices
+## About Me
 
-## 🌱 Currently Learning
-I'm expanding my cybersecurity expertise through the Google Cybersecurity Professional Certificate, focusing on threat detection and secure practices.
+- 🎓 **Higher Diploma in IT (Software Development)** from the University of Johannesburg (2017)
+- 💼 **3+ years of experience** in front-end development (2 years at DVT, 1 year at Hellocomputer)
+- 🔐 Currently a **Cybersecurity Intern** at Prodigy Infotech
+- 🌍 Currently based in Johannesburg, but open to relocation (especially to Cape Town)
+- 🚀 Founder of **Tholumuzi Dev**, a digital agency providing web development, cybersecurity solutions, and tutorials
+- 👨‍💻 Skilled in **Python**, **SQL**, and a variety of front-end technologies like **HTML**, **CSS**, **JavaScript**, and **React**
 
-## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/tholumuzikhuboni)
-- [Twitter](https://www.x.com/khubonimuzi)
-- [Portfolio](https://tholumuzi.co.za)
+## Current Projects
 
----
+- 💻 Building **Dumify**, an advanced music web app for the artist **uDumakahle**
+- 🎶 Developing a **personalized music recommendation system** using the **Spotify API**
+- 🌐 Working on a **clock website** with features like alarms, stopwatch, and reminders
+- 🛒 Planning to create an **e-commerce website** with the **Printful API**
 
-Let's collaborate on creating secure, user-centric web applications!
+## Tech Stack
+
+- **Languages**: HTML, CSS, JavaScript, Python, SQL
+- **Frameworks**: React, Node.js
+- **Tools**: Git, Firebase, Google Cloud, Figma, VS Code
+
+## Connect with Me
+
+- 🌐 [Website](https://dev.tholumuzi.co.za)
+- 📧 Email: [contact@tholumuzi.co.za](mailto:contact@tholumuzi.co.za)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/tholumuzi-khuboni)
+- 📱 [Twitter](https://twitter.com/TholumuziDev)
+
+## GitHub Stats
+
+![Tholumuzi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tholumuzikhuboni&show_icons=true&hide_title=true&count_private=true&hide=prs)
