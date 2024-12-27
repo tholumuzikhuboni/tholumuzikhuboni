@@ -6,8 +6,6 @@ Welcome to my GitHub profile! I'm a passionate front-end developer, cybersecurit
 
 - 🎓 **Higher Diploma in IT (Software Development)** from the University of Johannesburg (2017)
 - 💼 **3+ years of experience** in front-end development (2 years at DVT, 1 year at Hellocomputer)
-- 🔐 Currently a **Cybersecurity Intern** at Prodigy Infotech
-- 🌍 Currently based in Johannesburg, but open to relocation (especially to Cape Town)
 - 🚀 Founder of **Tholumuzi Dev**, a digital agency providing web development, cybersecurity solutions, and tutorials
 - 👨‍💻 Skilled in **Python**, **SQL**, and a variety of front-end technologies like **HTML**, **CSS**, **JavaScript**, and **React**
 
@@ -27,7 +25,7 @@ Welcome to my GitHub profile! I'm a passionate front-end developer, cybersecurit
 ## Connect with Me
 
 - 🌐 [Website](https://dev.tholumuzi.co.za)
-- 📧 Email: [contact@tholumuzi.co.za](mailto:contact@tholumuzi.co.za)
+- 📧 [Email](mailto:contact@tholumuzi.co.za)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/tholumuzi-khuboni)
 - 📱 [Twitter](https://twitter.com/TholumuziDev)
 
