@@ -1,4 +1,4 @@
-# Hi there, I'm Tholumuzi Khuboni 👋
+# Tholumuzi Khuboni 👋
 
 Welcome to my GitHub profile! I'm a passionate front-end developer, cybersecurity analyst, and tech enthusiast. I specialize in creating modern, responsive websites, web apps, and tools, with a focus on user experience and security.
 
