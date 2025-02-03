@@ -70,7 +70,7 @@ const tholumuzi = {
 
 <div align="center">
 
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=tholumuzikhuboni&repo=REPO_NAME&theme=tokyonight&hide_border=true)](https://github.com/tholumuzikhuboni/REPO_NAME)
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=tholumuzikhuboni&repo=weather-app&theme=tokyonight&hide_border=true)](https://github.com/tholumuzikhuboni/REPO_NAME)
 [![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=tholumuzikhuboni&repo=REPO_NAME2&theme=tokyonight&hide_border=true)](https://github.com/tholumuzikhuboni/REPO_NAME2)
 
 </div>
