@@ -80,13 +80,13 @@ const tholumuzi = {
   <table>
     <tr>
       <td width="50%" align="center">
-        <a href="https://github.com/tholumuzikhuboni/REPO_NAME">
-          <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=tholumuzikhuboni&repo=REPO_NAME&theme=tokyonight&hide_border=true" alt="Project Card" />
+        <a href="https://github.com/tholumuzikhuboni/weatherApp">
+          <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=tholumuzikhuboni&repo=weatherApp&theme=tokyonight&hide_border=true" alt="Project Card" />
         </a>
       </td>
       <td width="50%" align="center">
-        <a href="https://github.com/tholumuzikhuboni/REPO_NAME2">
-          <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=tholumuzikhuboni&repo=REPO_NAME2&theme=tokyonight&hide_border=true" alt="Project Card" />
+        <a href="https://github.com/tholumuzikhuboni/portfolioTemplate">
+          <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=tholumuzikhuboni&repo=portfolioTemplate&theme=tokyonight&hide_border=true" alt="Project Card" />
         </a>
       </td>
     </tr>
