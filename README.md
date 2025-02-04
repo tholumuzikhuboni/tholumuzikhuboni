@@ -58,26 +58,46 @@ const tholumuzi = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tholumuzikhuboni&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tholumuzikhuboni&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=tholumuzikhuboni&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=tholumuzikhuboni&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tholumuzikhuboni&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=tholumuzikhuboni&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 ## 🌟 Featured Projects
 
 <div align="center">
-
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=tholumuzikhuboni&repo=weather-app&theme=tokyonight&hide_border=true)](https://github.com/tholumuzikhuboni/REPO_NAME)
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=tholumuzikhuboni&repo=REPO_NAME2&theme=tokyonight&hide_border=true)](https://github.com/tholumuzikhuboni/REPO_NAME2)
-
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/tholumuzikhuboni/REPO_NAME">
+          <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=tholumuzikhuboni&repo=REPO_NAME&theme=tokyonight&hide_border=true" alt="Project Card" />
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/tholumuzikhuboni/REPO_NAME2">
+          <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=tholumuzikhuboni&repo=REPO_NAME2&theme=tokyonight&hide_border=true" alt="Project Card" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## 📈 Activity Graph
 
-[![Tholumuzi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tholumuzikhuboni&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tholumuzikhuboni&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+</div>
 
 <div align="center">
 
