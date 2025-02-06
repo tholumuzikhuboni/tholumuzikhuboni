@@ -5,21 +5,34 @@
 </div>
 
 <div align="center">
-  <a href="https://linkedin.com/in/tholumuzikhuboni">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://portfolio.tholumuzi.co.za">
-    <img src="https://img.shields.io/badge/-Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:khuboni@tholumuzi.co.za">
-    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/tholumuzikhuboni">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  
-  <br />
-  <img src="https://komarev.com/ghpvc/?username=tholumuzikhuboni&color=4285F4&style=for-the-badge" alt="Profile Views" />
+  <table>
+    <tr>
+      <td>
+        <a href="https://linkedin.com/in/tholumuzikhuboni" target="_blank">
+          <img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" />
+        </a>
+      </td>
+      <td>
+        <a href="https://portfolio.tholumuzi.co.za" target="_blank">
+          <img src="https://custom-icon-badges.demolab.com/badge/-Portfolio-4285F4?style=for-the-badge&logo=browser&logoColor=white&labelColor=0D1117" alt="Portfolio" />
+        </a>
+      </td>
+      <td>
+        <a href="mailto:khuboni@tholumuzi.co.za">
+          <img src="https://custom-icon-badges.demolab.com/badge/-Email-EA4335?style=for-the-badge&logo=mail&logoColor=white&labelColor=0D1117" alt="Email" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/tholumuzikhuboni" target="_blank">
+          <img src="https://custom-icon-badges.demolab.com/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub" />
+        </a>
+      </td>
+    </tr>
+  </table>
+
+  <img src="https://custom-icon-badges.demolab.com/github/followers/tholumuzikhuboni?color=236ad3&labelColor=0D1117&style=for-the-badge&logo=person-add&label=Followers&logoColor=white" alt="followers" />
+  <img src="https://custom-icon-badges.demolab.com/github/stars/tholumuzikhuboni?color=55960c&labelColor=0D1117&style=for-the-badge&logo=star&logoColor=white" alt="stars" />
+  <img src="https://komarev.com/ghpvc/?username=tholumuzikhuboni&color=4285F4&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 <br />
