@@ -73,7 +73,7 @@ const tholumuzi = {
   <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,bootstrap,gcp&theme=light" alt="Skills" />
   
   <details>
-    <summary><b>View Full Tech Stack</b></summary>
+    <summary><b>View My Full Tech Stack</b></summary>
     <br />
     <p>
       <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
