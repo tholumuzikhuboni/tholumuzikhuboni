@@ -40,7 +40,7 @@
 ## 💫 About Me
 
 <div align="center">
-  <img width="55%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tholumuzikhuboni&layout=compact&hide_border=true&theme=default&bg_color=f8f9fa&title_color=4285F4" />
+  <img width="100%" "src="https://github-readme-stats.vercel.app/api/top-langs/?username=tholumuzikhuboni&layout=compact&hide_border=true&theme=default&bg_color=f8f9fa&title_color=4285F4" />
 
 ```typescript
 const tholumuzi = {
