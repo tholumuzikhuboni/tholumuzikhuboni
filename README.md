@@ -90,8 +90,8 @@ const tholumuzi = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=tholumuzikhuboni&show_icons=true&count_private=true&hide_border=true&title_color=4285F4&icon_color=4285F4&text_color=333&bg_color=f8f9fa" alt="GitHub Stats" /> 
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=tholumuzikhuboni&hide_border=true&stroke=4285F4&ring=4285F4&fire=4285F4&currStreakNum=333&sideNums=333&dates=666&currStreakLabel=4285F4&background=f8f9fa" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tholumuzikhuboni&show_icons=true&count_private=true&hide_border=true&title_color=4285F4&icon_color=4285F4&text_color=333&bg_color=f8f9fa" alt="GitHub Stats" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tholumuzikhuboni&hide_border=true&stroke=4285F4&ring=4285F4&fire=4285F4&currStreakNum=333&sideNums=333&dates=666&currStreakLabel=4285F4&background=f8f9fa" alt="GitHub Streak" />
 </div>
 
 ## 🌟 Featured Projects
