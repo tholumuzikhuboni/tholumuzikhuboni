@@ -42,7 +42,7 @@
 ```typescript
 const tholumuzi = {
   role: "Front-End Developer",
-  experience: "3+ years",
+  experience: "1+ years",
   education: "Higher Diploma in IT (Software Development)",
   passions: [
     "Web Development",
