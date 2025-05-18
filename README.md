@@ -1,7 +1,7 @@
 # <div align="center">👨‍💻 Tholumuzi Khuboni</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=4285F4&center=true&vCenter=true&random=false&width=500&lines=Passionate+Front-End+Developer;3%2B+Years+of+Experience;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=4285F4&center=true&vCenter=true&random=false&width=500&lines=Passionate+Front-End+Developer;1%2B+Years+of+Experience;Always+Learning+New+Technologies" alt="Typing SVG" />
 </div>
 
 <div align="center">
