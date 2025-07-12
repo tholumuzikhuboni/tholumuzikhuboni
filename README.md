@@ -57,7 +57,7 @@ const tholumuzi = {
   askMeAbout: [
     "IT Support",
     "Tech Troubleshooting",
-    "Automating IT Tasks"
+    "Automating IT Tasks"```
   ]
 };
 
