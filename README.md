@@ -62,46 +62,12 @@ const tholumuzi = {
 };
 ```
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tholumuzikhuboni&layout=compact&hide_border=true&theme=default&bg_color=f8f9fa&title_color=4285F4" />
-<br />
-🛠️ Tech Stack
-<div align="center">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dwindows,linux,bash,powershell,gcp,python,js,git%26theme%3Dlight" alt="Skills" />
-<details>
-<summary><b>View My Full Tech Stack</b></summary>
-<br />
-<p>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-Windows-0078D6%3Fstyle%3Dfor-the-badge%26logo%3Dwindows%26logoColor%3Dwhite" alt="Windows" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-Linux-FCC624%3Fstyle%3Dfor-the-badge%26logo%3Dlinux%26logoColor%3Dblack" alt="Linux" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-Active_Directory-0078D6%3Fstyle%3Dfor-the-badge%26logo%3Dwindows-terminal%26logoColor%3Dwhite" alt="Active Directory" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-Networking-007ACC%3Fstyle%3Dfor-the-badge%26logo%3Dcisco%26logoColor%3Dwhite" alt="Networking" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-PowerShell-5391FE%3Fstyle%3Dfor-the-badge%26logo%3Dpowershell%26logoColor%3Dwhite" alt="PowerShell" />
-<img src="https.img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/-Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python" />
-<img src="https://img.shields.io/badge/-Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
-</p>
-</details>
-</div>
-<br />
-📊 GitHub Stats
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=tholumuzikhuboni&show_icons=true&count_private=true&hide_border=true&title_color=4285F4&icon_color=4285F4&text_color=333&bg_color=f8f9fa" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tholumuzikhuboni&hide_border=true&stroke=4285F4&ring=4285F4&fire=4285F4&currStreakNum=333&sideNums=333&dates=666&currStreakLabel=4285F4&background=f8f9fa" alt="GitHub Streak" />
-</div>
-🌟 Featured Projects
-<div align="center">
-<a href="https://github.com/tholumuzikhuboni/weatherApp">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=tholumuzikhuboni&repo=weatherApp&hide_border=true&title_color=4285F4&icon_color=4285F4&text_color=333&bg_color=f8f9fa" alt="Weather App" />
-</a>
-<a href="https://github.com/tholumuzikhuboni/portfolioTemplate">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=tholumuzikhuboni&repo=portfolioTemplate&hide_border=true&title_color=4285F4&icon_color=4285F4&text_color=333&bg_color=f8f9fa" alt="Portfolio Template" />
-</a>
-</div>
-📈 Activity Graph
+## 📈 Activity Graph
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=tholumuzikhuboni&bg_color=f8f9fa&color=333333&line=4285F4&point=4285F4&area_color=4285F4&area=true&hide_border=true" alt="Activity Graph" />
 </div>
-🏆 GitHub Trophies
+
+## 🏆 GitHub Trophies
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=tholumuzikhuboni&theme=flat&no-frame=true&row=1&column=7&margin-w=8&bg_color=f8f9fa&title_color=4285F4" alt="GitHub Trophies" />
 </div>
