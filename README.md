@@ -1,4 +1,4 @@
-# <div align="center">👨‍💻 Tholumuzi Khuboni</div>
+# <div align="center"> Tholumuzi Khuboni</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=4285F4&center=true&vCenter=true&random=false&width=500&lines=IT+Support+Specialist;Former+Software+Engineer;Solving+Problems+%26+Automating+Tasks;Currently+Getting+Certified" alt="Typing SVG" />
