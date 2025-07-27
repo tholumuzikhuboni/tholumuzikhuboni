@@ -41,7 +41,7 @@
 
 ```typescript
 const tholumuzi = {
-  role: "Software Engineering",
+  role: "Software Engineer",
   background: "Information Technology",
   education: "Higher Diploma in IT (Software Development)",
   passions: [
