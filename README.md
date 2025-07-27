@@ -1,7 +1,7 @@
 # <div align="center"> Tholumuzi Kuboni 👋</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=4285F4&center=true&vCenter=true&random=false&width=500&lines=IT+Support+Specialist;Former+Software+Engineer;Solving+Problems+%26+Automating+Tasks;Currently+Getting+Certified" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=4285F4&center=true&vCenter=true&random=false&width=500&lines=Software+Engineer;IT+Specialist;Security+Engineer;Tech+Lead" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -18,7 +18,7 @@
         </a>
       </td>
       <td>
-        <a href="mailto:khuboni@tholumuzi.co.za">
+        <a href="mailto:contact@tholumuzi.co.za">
           <img src="https://custom-icon-badges.demolab.com/badge/-Email-EA4335?style=for-the-badge&logo=mail&logoColor=white&labelColor=0D1117" alt="Email" />
         </a>
       </td>
@@ -41,13 +41,13 @@
 
 ```typescript
 const tholumuzi = {
-  role: "IT Support Specialist",
-  background: "Former Software Engineer",
+  role: "Software Engineering",
+  background: "Information Technology",
   education: "Higher Diploma in IT (Software Development)",
   passions: [
-    "System Troubleshooting",
-    "Network Administration",
-    "Process Automation with Code"
+    "IT Systems Management",
+    "Software Engineering",
+    "Security Engineering"
   ],
   currentlyLearning: [
     "CompTIA A+ / Network+",
@@ -55,7 +55,7 @@ const tholumuzi = {
     "Cloud Infrastructure (GCP, Azure)"
   ],
   askMeAbout: [
-    "IT Support",
+    "Software Engineering",
     "Tech Troubleshooting",
     "Automating IT Tasks"
   ]
