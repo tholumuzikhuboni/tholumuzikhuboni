@@ -13,7 +13,7 @@
         </a>
       </td>
       <td>
-        <a href="https://portfolio.tholumuzi.co.za" target="_blank">
+        <a href="https://tholumuzi.co.za" target="_blank">
           <img src="https://custom-icon-badges.demolab.com/badge/-Portfolio-4285F4?style=for-the-badge&logo=browser&logoColor=white&labelColor=0D1117" alt="Portfolio" />
         </a>
       </td>
