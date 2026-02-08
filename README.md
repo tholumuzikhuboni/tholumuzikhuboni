@@ -37,4 +37,32 @@ class LinkedMe:
                 "Vertex AI Search Orchestration",
                 "Imagen Multimodal Pipelines"
             ]
-        }****
+        }
+
+        ---
+
+## Advanced Cloud & AI Specialization
+*Proven technical mastery through hands-on architecture and advanced Google Cloud validation.*
+
+### **Generative AI & Retrieval (RAG)**
+* [cite_start]**Architecting RAG Systems**: Specialized in deploying advanced **Retrieval-Augmented Generation (RAG)** using **Firestore Vector Search** to ground LLMs in private data[cite: 7, 8].
+* [cite_start]**Multimodal Synthesis**: Implementing enterprise-grade image generation and sophisticated editing workflows via **Imagen**[cite: 12, 16].
+
+### **Intelligent Search Infrastructure**
+* [cite_start]**Vertex AI Search**: Engineering and maintaining high-performance **Data Stores** for complex enterprise datasets[cite: 34, 39, 40].
+* [cite_start]**Search Optimization**: Precision configuration of AI applications to maximize relevance and accuracy in retrieval[cite: 23, 28].
+
+---
+
+## Enterprise Technology Stack
+<div align="center">
+  <img src="https://img.shields.io/badge/Cloud-Google_Cloud_Platform-4285F4?style=plastic&logo=google-cloud&logoColor=white" alt="GCP Badge" />
+  <img src="https://img.shields.io/badge/AI-Vertex_AI-4285F4?style=plastic&logo=google-cloud&logoColor=white" alt="Vertex AI Badge" />
+  <img src="https://img.shields.io/badge/Database-Firestore_Vector_Search-FFCA28?style=plastic&logo=firebase&logoColor=black" alt="Firestore Badge" />
+  <br />
+  <img src="https://img.shields.io/badge/Language-Python_/_TypeScript-3776AB?style=plastic&logo=python&logoColor=white" alt="Python Badge" />
+  <img src="https://img.shields.io/badge/Containers-Docker_/_GKE-2496ED?style=plastic&logo=docker&logoColor=white" alt="Docker Badge" />
+  <img src="https://img.shields.io/badge/Security-Identity_Platform-FBBC05?style=plastic&logo=google-cloud&logoColor=black" alt="Security Badge" />
+</div>
+
+---
