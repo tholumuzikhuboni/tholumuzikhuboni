@@ -39,7 +39,7 @@ class LinkedMe:
             ]
         } 
         
-        ```
+```
 
 ## Advanced Cloud & AI Specialization
 *Proven technical mastery through hands-on architecture and advanced Google Cloud validation.*
