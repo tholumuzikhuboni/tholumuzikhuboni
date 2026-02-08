@@ -37,9 +37,7 @@ class LinkedMe:
                 "Vertex AI Search Orchestration",
                 "Imagen Multimodal Pipelines"
             ]
-        }
-
-        ---
+        } ```
 
 ## Advanced Cloud & AI Specialization
 *Proven technical mastery through hands-on architecture and advanced Google Cloud validation.*
