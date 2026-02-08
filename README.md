@@ -1,7 +1,7 @@
 # <div align="center"> Tholumuzi Kuboni 👋</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=4285F4&center=true&vCenter=true&random=false&width=500&lines=Software+Engineer;IT+Specialist;Security+Engineer;Tech+Lead" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4285F4&center=true&vCenter=true&random=false&width=600&lines=Professional+Cloud+Architect;CEO+at+LinkedMe;GCP+Partner;AI+Systems+Architect" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -30,50 +30,23 @@
     </tr>
   </table>
 
-  <img src="https://custom-icon-badges.demolab.com/github/followers/tholumuzikhuboni?color=236ad3&labelColor=0D1117&style=for-the-badge&logo=person-add&label=Followers&logoColor=white" alt="followers" />
-  <img src="https://custom-icon-badges.demolab.com/github/stars/tholumuzikhuboni?color=55960c&labelColor=0D1117&style=for-the-badge&logo=star&logoColor=white" alt="stars" />
-  <img src="https://komarev.com/ghpvc/?username=tholumuzikhuboni&color=4285F4&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://custom-icon-badges.demolab.com/github/followers/tholumuzikhuboni?color=4285F4&labelColor=0D1117&style=for-the-badge&logo=person-add&label=Followers&logoColor=white" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=tholumuzikhuboni&color=34A853&style=for-the-badge&label=GLOBAL+REPUTATION" alt="Profile Views" />
 </div>
 
 <br />
 
-## 💫 About Me
+## Executive Summary
 
 ```typescript
-const tholumuzi = {
-  role: "Software Engineer",
-  background: "Information Technology",
-  education: "Higher Diploma in IT (Software Development)",
-  passions: [
-    "IT Systems Management",
-    "Software Engineering",
-    "Security Engineering"
-  ],
-  currentlyLearning: [
-    "CompTIA A+ / Network+",
-    "PowerShell & Bash Scripting",
-    "Cloud Infrastructure (GCP, Azure)"
-  ],
-  askMeAbout: [
-    "Software Engineering",
-    "Tech Troubleshooting",
-    "Automating IT Tasks"
+const linkedMe = {
+  ceo: "Tholumuzi Kuboni",
+  company: "LinkedMe (Google Cloud Partner)",
+  specialization: "Pure-Play GCP Architecture",
+  credentials: "Google Cloud Certified Professional Cloud Architect",
+  currentFocus: [
+    "Generative AI Implementation", // [cite: 9, 17]
+    "Enterprise RAG Architectures", // [cite: 2, 7]
+    "Vector Search & LLM Grounding"  // [cite: 3, 8]
   ]
 };
-```
-
-## 📈 Activity Graph
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tholumuzikhuboni&bg_color=f8f9fa&color=333333&line=4285F4&point=4285F4&area_color=4285F4&area=true&hide_border=true" alt="Activity Graph" />
-</div>
-
-## 🏆 GitHub Trophies
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=tholumuzikhuboni&theme=flat&no-frame=true&row=1&column=7&margin-w=8&bg_color=f8f9fa&title_color=4285F4" alt="GitHub Trophies" />
-</div>
-<br />
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4285F4&height=100&section=footer" width="100%" alt="Footer Wave" />
-<br />
-<i>💡 Let's connect and build something amazing together!</i>
-</div>
