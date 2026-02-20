@@ -1,105 +1,80 @@
+
+# <div align="center"> Tholumuzi Kuboni 👋</div>
+
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=4285F4&height=1&section=header"/>
-
-# Tholumuzi Kuboni
-
-**Professional Cloud Architect | CEO at LinkedMe | Google Cloud Partner**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tholumuzikhuboni)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://tholumuzi.co.za)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@tholumuzi.co.za)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tholumuzi)
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=DADCE0&height=1&section=header"/>
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=4285F4&center=true&vCenter=true&random=false&width=500&lines=Chief+Executive+Officer;Software+Engineer;Cloud+Engineer;Tech+Lead" alt="Typing SVG" />
 </div>
 
-## Architecture Overview
-
-```
-                        +---------------------------+
-                        |     THOLUMUZI KUBONI      |
-                        |   CEO & Cloud Architect   |
-                        +-------------+-------------+
-                                      |
-                 +--------------------+--------------------+
-                 |                    |                     |
-        +--------v--------+  +-------v--------+  +--------v--------+
-        |   AI & GenAI    |  |     Cloud      |  |    Security     |
-        +-----------------+  +----------------+  +-----------------+
-        | Vertex AI       |  | Cloud Run      |  | IAM             |
-        | Gemini / LLMs   |  | GKE            |  | Identity Platf. |
-        | RAG Systems     |  | Terraform      |  | VPC / Zero Trust|
-        | Imagen          |  | BigQuery       |  | SOC2 / HIPAA    |
-        | LangChain       |  | Firestore      |  | Network Security|
-        +-----------------+  +----------------+  +-----------------+
-```
-
-## Tech Stack
-
-| Layer | Technologies |
-|:--|:--|
-| **Cloud** | GCP, Cloud Run, GKE, Terraform |
-| **AI/ML** | Vertex AI, Gemini, TensorFlow, LangChain |
-| **Data** | Firestore, BigQuery, Spanner, Elasticsearch |
-| **Dev** | Python, TypeScript, React, Node.js, Docker |
-| **Ops** | Git, Linux, CI/CD, Infrastructure as Code |
-
-## Focus Areas
-
-```
-+---------------------+     +---------------------+
-| Generative AI & RAG |     | Intelligent Search  |
-|---------------------|     |---------------------|
-| RAG with Firestore  |     | Data Store design   |
-| Vector Search       |     | Real-time indexing  |
-| LLM Orchestration   |     | Semantic search     |
-| Multimodal AI       |     | Query optimization  |
-+---------------------+     +---------------------+
-
-+---------------------+     +---------------------+
-| Cloud Architecture  |     | Security & Identity |
-|---------------------|     |---------------------|
-| Serverless design   |     | Zero-trust models   |
-| Multi-region deploy |     | Identity federation |
-| Cost optimization   |     | Compliance (SOC2)   |
-| FinOps practices    |     | Network security    |
-+---------------------+     +---------------------+
-```
-
-## Certifications
-
-| Certification | Issuer |
-|:--|:--|
-| Professional Cloud Architect | Google Cloud |
-| Google Cloud Partner Status | Google Cloud |
-| GenAI Specialist | Vertex AI |
-| Cloud Security Professional | Google Cloud |
-
-## GitHub Stats
-
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tholumuzi&show_icons=true&count_private=true&hide_border=true&title_color=4285F4&icon_color=34A853&text_color=c9d1d9&bg_color=0d1117" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tholumuzi&layout=compact&hide_border=true&title_color=4285F4&text_color=c9d1d9&bg_color=0d1117" />
+  <table>
+    <tr>
+      <td>
+        <a href="https://linkedin.com/in/tholumuzi" target="_blank">
+          <img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" />
+        </a>
+      </td>
+      <td>
+        <a href="https://tholumuzi.co.za" target="_blank">
+          <img src="https://custom-icon-badges.demolab.com/badge/-Portfolio-4285F4?style=for-the-badge&logo=browser&logoColor=white&labelColor=0D1117" alt="Portfolio" />
+        </a>
+      </td>
+      <td>
+        <a href="mailto:contact@tholumuzi.co.za">
+          <img src="https://custom-icon-badges.demolab.com/badge/-Email-EA4335?style=for-the-badge&logo=mail&logoColor=white&labelColor=0D1117" alt="Email" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/tholumuzikhuboni" target="_blank">
+          <img src="https://custom-icon-badges.demolab.com/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub" />
+        </a>
+      </td>
+    </tr>
+  </table>
+
+  <img src="https://custom-icon-badges.demolab.com/github/followers/tholumuzikhuboni?color=236ad3&labelColor=0D1117&style=for-the-badge&logo=person-add&label=Followers&logoColor=white" alt="followers" />
+  <img src="https://custom-icon-badges.demolab.com/github/stars/tholumuzikhuboni?color=55960c&labelColor=0D1117&style=for-the-badge&logo=star&logoColor=white" alt="stars" />
+  <img src="https://komarev.com/ghpvc/?username=tholumuzikhuboni&color=4285F4&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
-## Dev Breakdown
+<br />
 
+## About Me
+
+```typescript
+const tholumuzi = {
+  role: "Chief Executive Oficcer",
+  background: "Computer Engineering",
+  education: "BSc(Hons) in Comp Eng",
+  passions: [
+    "Cloud Computing",
+    "Software Engineering",
+    "Artificial Intelligence"
+  ],
+  currentlyLearning: [
+    "CompTIA A+ / Network+",
+    "PowerShell & Bash Scripting",
+    "Cloud Infrastructure (GCP, Azure)"
+  ],
+  askMeAbout: [
+    "Software Engineering",
+    "Google Cloud Platform",
+    "Artificial Intelligence "
+  ]
+};
 ```
-Python       ==================    48.2%
-TypeScript   ============          31.8%
-YAML         ====                  10.6%
-Terraform    ==                     5.8%
-Docker       =                      3.6%
-```
 
-## Contact
-
-| Enterprise Inquiries | Portfolio | LinkedIn |
-|:--:|:--:|:--:|
-| [contact@tholumuzi.co.za](mailto:contact@tholumuzi.co.za) | [tholumuzi.co.za](https://tholumuzi.co.za) | [@tholumuzikhuboni](https://linkedin.com/in/tholumuzikhuboni) |
-
+## 📈 Activity Graph
 <div align="center">
-<sub>Tholumuzi Kuboni -- LinkedMe CEO -- Google Cloud Partner</sub>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tholumuzikhuboni&bg_color=f8f9fa&color=333333&line=4285F4&point=4285F4&area_color=4285F4&area=true&hide_border=true" alt="Activity Graph" />
+</div>
+
+## 🏆 GitHub Trophies
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=tholumuzikhuboni&theme=flat&no-frame=true&row=1&column=7&margin-w=8&bg_color=f8f9fa&title_color=4285F4" alt="GitHub Trophies" />
+</div>
+<br />
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4285F4&height=100&section=footer" width="100%" alt="Footer Wave" />
+<br />
+<i>💡 Let's connect and build something amazing together!</i>
 </div>
