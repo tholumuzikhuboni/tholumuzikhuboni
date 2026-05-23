@@ -53,7 +53,7 @@ const tholumuzi = {
   currentlyLearning: [
     "CompTIA A+ / Network+",
     "PowerShell & Bash Scripting",
-    "Cloud Infrastructure (GCP, Azure)"
+    "Cloud Infrastructure (GCP)"
   ],
   askMeAbout: [
     "Software Engineering",
